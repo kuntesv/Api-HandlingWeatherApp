@@ -2,6 +2,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
     const cityInput = document.getElementById('city-input');
+    console.log(cityInput);
     const getWeatherBtn = document.getElementById('get-weather-btn');
     const weatherInfo = document.getElementById('weather-info');
     const cityName = document.getElementById('city-name');
