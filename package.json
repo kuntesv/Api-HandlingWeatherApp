@@ -1,0 +1,19 @@
+{
+  "name": "apihandlingweatherapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuntesv/Api-HandlingWeatherApp.git"
+  },
+  "author": "sachin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuntesv/Api-HandlingWeatherApp/issues"
+  },
+  "homepage": "https://github.com/kuntesv/Api-HandlingWeatherApp#readme"
+}
